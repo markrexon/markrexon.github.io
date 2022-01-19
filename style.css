@@ -1,0 +1,148 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color:white;
+}
+a{
+  text-decoration: none;
+  font-size: large;
+
+}
+.heading{
+  margin:230px;
+}
+h3{
+  color: black;
+}
+#sidebar{
+    width: 250px;
+   height: 700px;
+   position: relative;
+}
+  
+i{
+    margin:20px;
+    font-size: large;
+}
+#img_src{
+    border-radius: 60px;
+    margin: 20px;
+    width: 100px;
+ 
+}
+h2{
+  color:blue
+}
+.name
+{
+  margin:20px;
+  padding-left: 20px;
+}
+.name ,p{
+  padding-left: 20px;
+
+}
+ul.nav-design:hover, ul.nav-design:active 
+{
+   border-radius: 20px;
+   background-color: rgb(107, 172, 247);
+   font-size: 150%;
+   
+}
+.nav-design{
+  color:white;
+  border-radius: 20px;
+  background-color: grey;
+  
+}
+a{
+  color: white;
+}
+ 
+nav li a {
+    color: #333;
+    display: block;
+    padding: 0.6rem 0.3rem;
+    font-weight: 400;
+    transition: all ease-out 250ms;
+    text-decoration: none;
+  }
+  
+ 
+  section {
+    background-color: black;
+    height: 120vh;
+    margin:0;
+    padding:2.5rem 4rem;
+  }
+  
+  
+  section:last-of-type {
+    height: 100vh;
+  }
+  #award{
+    height: 370px;
+  }
+  #education{
+    height: 750px;
+    
+  }
+  #project{
+    height: 1000px;
+  }
+  #skill{
+    height: 1000px;
+     border-radius:30px;
+  }
+  #experience{
+    height:450px;
+  }
+  #contact{
+    height: 500px;
+  }
+  #resume{
+    height: 750px;
+
+  }
+  .hori{
+  color: rgb(42, 134, 177);
+  background-color:  rgb(42, 134, 177);
+  height: 100px;
+  width: 5px;
+  }
+ 
+  .btn{
+    margin:20px
+  }
+  .center {
+
+    margin-top:40px;
+   }
+#img-buton{
+    position: absolute;
+    top: 140%;
+    left:1%; 
+}
+
+.frontend{
+  width: 160px;
+  margin:10px;
+
+}
+h1{
+  position: relative;
+  background: rgb(6, 140, 218);
+  padding: 20px;
+  width: 950px;
+  right: 70px;
+  top:-45px;
+  border-radius: 20px;
+  font-family:sans-serif;
+  font-size: xx-large;
+  
+
+}
+
